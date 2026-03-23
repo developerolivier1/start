@@ -1,0 +1,9 @@
+speechrecognition==3.14.6
+pyttsx3==2.99
+pyaudio==0.2.14
+pywin32==311
+numpy==1.24.3
+matplotlib==3.7.1
+comtypes==1.4.16
+pypiwin32==223
+typing_extensions==4.15.0
